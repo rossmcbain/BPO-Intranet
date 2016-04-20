@@ -1252,3 +1252,17 @@ text-align:left;
 {
     width: 1200px;
 }
+
+
+.table > thead > tr > th{
+    text-align:center;
+    text-decoration:underline;
+    color:#FFF;
+    background-color: #ee2e24!important;
+}
+
+.table > tbody > tr > td {
+        color:#383838;
+    font-size:11pt;
+    font-weight:300;
+}
